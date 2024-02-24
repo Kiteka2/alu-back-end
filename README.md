@@ -39,4 +39,3 @@ License
 
 MIT License
 
-Feel free to customize this template as needed to fit your project's specifications.
